@@ -1,0 +1,7 @@
+python:
+  version: "3.12.4"
+application:
+  entrypoint: "src/main.py"
+platform:
+  os: windows
+  architecture: amd64
